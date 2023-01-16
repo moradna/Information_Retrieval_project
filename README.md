@@ -1,6 +1,13 @@
 # Information Retrieval Project- Wikipedia Search Engine
 
+
 A flask app for searching relevent documents from wikipedia dumps.
+
+
+
+## Authors
+* **Ron Shemesh** - [Ron Shemesh](https://github.com/ronsh12)
+* **Natalie Morad** - [Natalie Morad](https://github.com/moradna)
 
 ## Design goals:
 
