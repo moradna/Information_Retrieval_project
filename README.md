@@ -9,15 +9,15 @@ A flask app for searching relevent documents from wikipedia dumps.
 - Retrieve relevent docs
 
 
-## Egine Files:
+## Engine Files:
 All relevent information are written in files:
 
 -  `search_frontend.py`
 -  `search_backend.py`
 - `Inverted_Index_gcp.py`
 
-## Data:
-
+## Inverted Index:
+- `Inverted_index_Final.ipynb`
 
 ## Run APP:
 
