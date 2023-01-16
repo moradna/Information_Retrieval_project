@@ -1,5 +1,4 @@
-# Information_Retrieval_project:
-#Information Retrieval Project: Wikipedia Search Engine
+# Information Retrieval Project: Wikipedia Search Engine
 
 A flask app for searching relevent documents from wikipedia dumps.
 
@@ -10,7 +9,7 @@ A flask app for searching relevent documents from wikipedia dumps.
 - Retrieve relevent docs
 
 
-## Docs:
+## Egine Files:
 All relevent information are written in files:
 
 -  `search_frontend.py`
@@ -19,13 +18,6 @@ All relevent information are written in files:
 
 ## Data:
 
-- Postings anchor index (Terms are single words)
-- Postings anchor double index (Terms are two-words combinations)
-- Postings body index
-- Postings stemm body index (Terms are stemmed before put in index)
-- Postings title index
-- Page view
-- Page rank
 
 ## Run APP:
 
