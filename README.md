@@ -1,4 +1,4 @@
-# Information Retrieval Project: Wikipedia Search Engine
+# Information Retrieval Project- Wikipedia Search Engine
 
 A flask app for searching relevent documents from wikipedia dumps.
 
